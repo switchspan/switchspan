@@ -5,6 +5,6 @@ VP of Software at Viking Sasquatch, LLC (2019–present), Chesapeake, VA. 28+ ye
 - Multi-tenant AWS platforms, API integration, SOC 2 readiness, engineering standards
 - AI-assisted development with Cursor, Claude Code, and Codex; Jira-integrated agentic workflows with human oversight
 - Co-inventor, U.S. Patent 8,165,939 (2012): real-estate settlement fraud-detection system, launched as Rynoh Live.
-- Virginia Defense Force volunteer (since 2021)
+- Virginia Defense Force volunteer (2021–2025)
 
 LinkedIn: https://linkedin.com/in/kentaylorlinked
