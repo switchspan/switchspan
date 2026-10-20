@@ -1,6 +1,6 @@
 ### Ken Taylor
 
-VP of Software at Viking Sasquatch, LLC (2019–present), Chesapeake, VA. 28+ years across software development, architecture, cloud systems, and engineering leadership.
+CTO / VP of Software at Viking Sasquatch, LLC (2019–present), Chesapeake, VA. 28+ years across software development, architecture, cloud systems, and engineering leadership.
 
 - Multi-tenant AWS platforms, API integration, SOC 2 readiness, engineering standards
 - AI-assisted development with Cursor, Claude Code, and Codex; Jira-integrated agentic workflows with human oversight
