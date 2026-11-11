@@ -1,4 +1,4 @@
-![Hi, I’m Ken. I build software and help teams do their best work.](./banner.svg)
+![Hi, I’m Ken. I build software and help teams do their best work.](./banner-midnight-amber.svg)
 
 I’m a software builder and engineering leader in Chesapeake, Virginia. At **[Viking Sasquatch](https://vikingsasquatch.com)**, I work on cloud platforms, integrations, and the practices that help teams deliver reliable software.
 
